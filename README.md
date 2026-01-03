@@ -1,5 +1,5 @@
 # Networking_Notes
-This is the git repo for my networking notes, feel free to use them to study. 
+This is the git repo for my networking notes, feel free to use them to study. I Planned a 100 days networking journal in dev.to (https://dev.to/aegisspecter) and created this repo to upload my notes
 # Hey there, I'm Aegis Specter #
 
 I'm currently in 11th grade - a passionate learner aiming to become and ethical hacker and the aiming to be a founder of **Specter Industries**. I'm building my skills step by step in Cybersecurity, Linux and Python ,while exploring tools like Kali Linux, Nmap and Burp suite.

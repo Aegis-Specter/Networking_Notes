@@ -1,0 +1,154 @@
+1. what is network
+	Types of network(LAN,MAN,WAN,PAN)
+	Client server vs peer to peer
+	Network Topology
+	Network devices overview
+
+2.OSI model
+	OSI 7 layers
+	Function of each layer
+	Data flow through OSI
+	OSI vs TCP/IP model
+
+3.TCP/IP model
+	Layers of TCP
+	Encapsulation and decapsulation
+	Data unit(bit,frame,packet,segment)
+
+4.IP addressing
+	IPv4 structure
+	Binary representation
+	Network ID vs Host ID
+	Public vs Private IP
+	Static vs Dynamic IP
+	Loopback address
+	APIPA
+
+5. Subnetting
+	Subnetting basics
+	Subnet mask
+	CIDR notation
+	Network address
+	Broadcast address
+	Host range
+	Number of subnets
+	VLSM (intro)
+
+6. MAC Addressing
+	MAC addressing
+	MAC address format
+	OUI
+	Unicast / Multicast / Broadcast MAC
+	MAC vs IP
+	7. ARP (Address Resolution Protocol)
+	ARP
+	ARP working
+	ARP table
+	ARP request & reply
+	Gratuitous ARP
+	ARP spoofing (concept)
+
+8. ICMP
+	ICMP
+	Purpose of ICMP
+	Ping
+	Traceroute
+	ICMP error messages
+	TTL
+
+9. DNS
+	DNS hierarchy
+	Recursive vs Iterative queries
+	DNS caching
+	Root / TLD / Authoritative servers
+	DNS records (A, AAAA, CNAME, MX, TXT, NS, PTR, SOA)
+	DNS attack (concept)
+
+10. DHCP
+	DHCP
+	Purpose of DHCP
+	DORA process
+	DHCP lease
+	DHCP relay
+	DHCP range
+
+11. NAT
+	NAT
+	Why NAT exists
+	Static NAT vs Dynamic NAT
+	PAT / NAT overload
+	NAT table
+	NAT limitations
+
+12. Routing Basics
+	Routing basics
+	Router working
+	Routing table
+	Default gateway
+	Static routing (intro)
+	Dynamic routing (idea)
+
+13. Transport Layer
+	Transport layer
+	TCP working
+	TCP 3-way handshake (SYN, SYN-ACK, ACK)
+	TCP flags (SYN, ACK, FIN, RST)
+	UDP working
+	TCP vs UDP
+
+14. Ports & Sockets
+	Ports & sockets
+	What is a port
+	Well-known ports
+	Registered ports
+	Ephemeral ports
+	Socket concept
+
+15. Switching Basics
+	Switching basics
+	Switch vs Hub
+	MAC address table
+	Broadcast domain
+	Collision domain
+	VLAN (intro)
+
+16. Wireless Networking
+	Wireless networking
+	Wi-Fi standards
+	Frequency (2.4 GHz / 5 GHz)
+	SSID
+	Encryption (WEP, WPA, WPA2, WPA3)
+
+17. Common Protocols
+	HTTP / HTTPS
+	FTP / SFTP
+	SMTP
+	POP3 / IMAP
+	SSH
+	Telnet
+	SNMP
+	NTP
+
+18. Firewall & Security Basics
+	Firewall & security basics
+	What is a firewall
+	Packet filtering
+	Stateful firewall
+	IDS vs IPS
+	DMZ concept
+
+19. Network Troubleshooting
+	Ping
+	Traceroute
+	nslookup / dig
+	ipconfig / ifconfig / ip
+	netstat / ss
+	arp command
+	
+20. Networking for Ethical Hacking (Intro)
+	Networking for ethical hacking (intro)
+	MITM concept
+	Packet sniffing (idea)
+	ARP spoofing / poisoning (idea)
+	DNS spoofing (idea)
+	Port scanning (concept)

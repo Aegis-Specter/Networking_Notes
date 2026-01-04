@@ -1,0 +1,12 @@
+Definition:
+ A Network is a collection of connected devices that exchange informations using certain protocols.
+
+Types of networks
+  - LAN(Local Area Network)
+  - WAN(Wide Area Network)
+  - PAN(Personal Area Network)
+
+Uses:
+ - to share files
+ - access internet
+ - communicate with each other

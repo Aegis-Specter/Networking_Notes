@@ -1,0 +1,67 @@
+Intro:
+  This is a bit lengthy topic learn how data flows through several layer instead of memorising
+
+Definition:
+ OSI(Open Source Interconnection) it explains how data moves from one device to another device through network
+
+ Why OSI exists:
+  Before OSI:
+    - every company has its own method
+    - there is no standard way to teach
+
+  after OSI:
+    - debugging is easier
+    - makes learning easier
+
+The 7 OSI layers:
+  
+     7.Application
+     6.Presentation
+     5.Session
+     4.Transport
+     3.Network
+     2.Data Link
+     1.Physical
+
+   Data goes from (7 to 1 ) when sending 
+   Data goes from (1 to 7 ) when reciving
+
+1. Physical layer:
+    This layer is of cables, signals etc., just full of connections.
+
+   Tip: Think of this layer as full connections of cables.
+
+2. Data link:
+    This layer handles device to device in the same network using MAC address
+
+    Tip: Think of this layer like a delivery man came for multiple parcels and asks for the receiver's name(MAC address)
+
+3.Netwok layer:
+     This layer finds which device requested the data. It uses IP address, path selection.
+
+     Tip: Think of this layer like the delivey man is searching for the house number(ip address) to deliver the parcel(data)
+
+4.Transport layer:
+    This layer handles the end to end delivery and reliability using some protocols TCP, UDP and Ports.
+
+    For now understand:
+      UDP - slower but checks if data got delivered correctly (used for videos and files while downloading)
+      TCP - faster but does not check if the data got delivered(used for live streaming thats why you will see some breaks)
+
+   Tip: Think of it like choosing parcel company(logic will be slightly wrong it just for understanding)
+
+5.Session layer:
+  This layer manages the session like starting, maintaining and authenticating also for terminating. Because for this layer the websites like amazon, flipkart are still logged in even after closing the browser.
+
+  Tip: Think of it like the parcel company trying to pack, ship and deliver.
+
+6. Presentaion Layer:
+      This layer checks format and ensures security like encrypting, decrypting, compression.
+
+      Tip: Think of it like the parcel company formats the address sticker so the delivery man can understand it and also securing user personal information when ordering.
+
+7.Application layer:
+     This layer handles which service do users are requesting like for a file or a web page
+
+     Tip: Think of this layer like the parcel company handles differnt parcel requests like overseas, inside the country.
+

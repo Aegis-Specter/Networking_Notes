@@ -45,8 +45,8 @@ The 7 OSI layers:
     This layer handles the end to end delivery and reliability using some protocols TCP, UDP and Ports.
 
     For now understand:
-      UDP - slower but checks if data got delivered correctly (used for videos and files while downloading)
-      TCP - faster but does not check if the data got delivered(used for live streaming thats why you will see some breaks)
+      TCP - slower but checks if data got delivered correctly (used for videos and files while downloading)
+      UDP - faster but does not check if the data got delivered(used for live streaming thats why you will see some breaks)
 
    Tip: Think of it like choosing parcel company(logic will be slightly wrong it just for understanding)
 

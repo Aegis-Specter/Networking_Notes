@@ -1,0 +1,5 @@
+1. IP - Internet Protocol
+2. MAC - Media Access Control
+3. TCP - Transmissionn Control Protocol
+4. UDP - User Datagram Protocol
+5. OSI - Open Systems Interconnection
